@@ -13,4 +13,4 @@ ________________________________________________________
  # Disclamer
   *Make sure to setup the requirments file before using or editing the code*
 _______________________________________________________
-# FEEL FREE TO USE THE PROJECT FOR ANYTHING IT'S 100% FREE TO USE
+# FEEL FREE TO USE THE PROJECT FOR ANYTHING, IT'S 100% FREE TO USE
